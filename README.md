@@ -15,6 +15,14 @@ This homework assignment contains two levels. The second level is optional but h
 
 - - -
 
+## Datasets
+
+* [Video Game Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+
+* [Mobile Electronic Review Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Mobile_Electronics_v1_00.tsv.gz)
+
+- - -
+
 ## Instructions
 
 ### Level 1
