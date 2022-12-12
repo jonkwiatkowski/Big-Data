@@ -1,7 +1,5 @@
-# big-data-challenge
-My submission for Assignment 22
 
-# Unit 22 Homework: “Alexa, Can You Handle Big Data?”
+# Big Data
 
 ## Background
 
